@@ -1,3 +1,4 @@
+To jest dodane!
 Szkolenia Python 101
 ====================
 
